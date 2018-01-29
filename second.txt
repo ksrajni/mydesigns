@@ -1,10 +1,6 @@
 "my second file" 
 second change
 third change
-<<<<<<< HEAD
 mom2 change
-=======
-mom1 change
->>>>>>> test merging conflicts
 fifth change
 sixth change
